@@ -2,6 +2,18 @@
 
 # team member roles
 
+apr:
+  icon: fa-solid fa-chalkboard-user
+  description: Assistant Professor
+  
+lr:
+  icon: fa-solid fa-chalkboard-user
+  description: Lecturer-Researcher
+  
+pr:
+  icon: fa-solid fa-chalkboard-user
+  description: Professor
+  
 pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
