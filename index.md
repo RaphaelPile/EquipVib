@@ -1,9 +1,11 @@
 ---
 ---
 
-# RaphaelPile's Website
+# LISPEN Vibration Team's Website
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the LISPEN Vibration Team's website. 
+The Vibration Team is a group of researchers working on topics related to mechanical vibration inside the LISPEN laboratory (please visit https://lispen.ensam.eu/). 
+This website is dedicated to highlight research topics, members and news about the Vibration Team. 
 
 {% include section.html %}
 
