@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Aurélien Grolet
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Assistant Professor
+role: apr
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: aurelien.grolet@ensam.eu
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
