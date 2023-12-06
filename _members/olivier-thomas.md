@@ -1,7 +1,7 @@
 ---
 name: Olivier Thomas
 image: images/photo.jpg
-role: pi
+role: pr
 aliases:
   - O. Thomas
 links:
