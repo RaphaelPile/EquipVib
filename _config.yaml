@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: RaphaelPile
+title: LISPEN Vibration Team
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Welcome to the website dedicated to LISPEN Vibration Team activites.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@RaphaelPile.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: RaphaelPile
-  twitter: RaphaelPile
-  youtube: RaphaelPile
+  email: olivier.thomas@ensam.eu
+  #orcid: 0000-0001-8713-9213
+  #google-scholar: ETJoidYAAAAJ
+  #github: RaphaelPile
+  #twitter: RaphaelPile
+  #youtube: RaphaelPile
 
 ### jekyll settings
 
