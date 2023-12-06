@@ -4,10 +4,8 @@ image: images/photo.jpg
 role: pi
 aliases:
   - O. Thomas
-  - O Thomas
 links:
   home-page: https://lispen.ensam.eu/user/87
-  % orcid: 0000-0001-8713-9213
 ---
 
 Olivier Thomas received the M.Sc. degree in mechanical engineering from École Normale Supérieure de Cachan, Cachan, France, and the Ph.D. degree from Pierre et Marie Curie University of Paris, Paris, France, and Telecom ParisTech, Paris, France, in 2001. He spent nine years in Conservatoire National des Arts et Métiers, Paris, as an Assistant Professor and he has been a Full Professor in mechanical engineering at Arts et Metiers Institute of Technology, Lille, France, since 2012. He is the Head of a research group of 2 assistant professors and 6 Ph.D. candidates/postdoctorates.
